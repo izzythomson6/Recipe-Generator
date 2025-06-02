@@ -8,6 +8,9 @@ Asks the user if they can think of an ingredient and if they can't the random fu
 Uses the Edamam API to generate a recipe from the list and then uses a for loop
 Uses a while loop to continue if the user wants to and end the recipe launcher if they don't wish to generate another recipe
 
+### **#Instructions**
+In this project you retrieve your own Edamam key and id and enter it into app_id and app_key before running it
+
 ### **#Technologies used**
 Python
 Edamam Recipe Search API
